@@ -1,0 +1,7 @@
+venv
+django_learn_rest/__pycache__
+.idea
+db.sqlite3
+monthly_report/__pycache__
+monthly_report/migrations/__pycache__
+__pycache__
